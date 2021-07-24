@@ -1,2 +1,2 @@
-# http://albanobre.github.com
+# http://albanobre.github.io
 Página Pessoal
